@@ -34,3 +34,9 @@ Here is how to navigate the menu.
     Q - Changes selected mouse button
 
 Once you have started the clicker it tells your how everything else works.
+
+---
+
+## Credits
+exro - Developer (original GUI and clicker code)
+mp3 - Reskin/Developer
