@@ -33,7 +33,7 @@ Here is how to navigate the menu.
     E - Enables or disables the currently selected mouse button
     Q - Changes selected mouse button
 
-Once you have started the clicker it tells your how everything else works.
+Once you have started the clicker you can toggle the clicker using `V` and stop it using `Delete`.
 
 ---
 
