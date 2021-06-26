@@ -140,9 +140,11 @@ if %ERRORLEVEL%==4 (
 
 if %ERRORLEVEL%==6 (
   if %col%==1 (if %sel%==4 (set col=2 && set sel=3) else (set col=2)) else (set col=1)
+  cls
 )
 if %ERRORLEVEL%==7 (
   if %col%==1 (if %leftMouse%==0 (set leftMouse=1) else (set leftMouse=0)) else (if %rightMouse%==0 (set rightMouse=1) else (set rightMouse=0))
+  cls
 )
 
 if %ERRORLEVEL%==5 (
