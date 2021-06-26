@@ -39,4 +39,5 @@ Once you have started the clicker it tells your how everything else works.
 
 ## Credits
 exro - Developer (original GUI and clicker code)
+
 mp3 - Reskin/Developer
