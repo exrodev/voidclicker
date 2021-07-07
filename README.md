@@ -8,9 +8,11 @@ Void Clicker is an autoclicker made in a single batch file.
 Void Clicker uses some trickery to run Powershell code in the same file which then runs C# code making it able to simulate a click.
 
 We do have a Discord where updates and other programs are released and we would love you to join.
-You can join [here.](https://discord.gg/yqpeRXC)
+You can join [here.](https://discord.gg/yqpeRXC) (link removed)
 
-**Void Clicker is going to soon be renamed and have a big new update. We strongly recommend that you join the Discord so you can stay up to date and get new features, GUI, and fix detectability issues. You can join the Discord server [here.](https://discord.gg/yqpeRXC)**
+~~**Void Clicker is going to soon be renamed and have a big new update. We strongly recommend that you join the Discord so you can stay up to date and get new features, GUI, and fix detectability issues. You can join the Discord server [here.](https://discord.gg/yqpeRXC)**~~
+
+**Void Clicker Discord was griefed so I am no longer working on the new Void Clicker update as my main project, I probably will still release it when it is done on GitHub. (link has been removed)**
 
 ---
 
@@ -21,7 +23,7 @@ There are also some things to keep in mind like:
 - The CPS may not be the same to what you set it as due to how the randomization code was written (it was written a long while ago). 
 - When you run the autoclicker, the name of the file will be randomized.
 - The `MC ONLY` module only works on the Java Edition of Minecraft.
-- There will also be a new update coming soon and this wont be something that will be kept up to date anymore.
+- There will also be a new update coming at some point and this wont be something that will be kept up to date anymore.
 
 Here is how to navigate the menu.
 
