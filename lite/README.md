@@ -1,6 +1,7 @@
 # Void Clicker Lite
 
-insert menu picture here
+![Menu](https://user-images.githubusercontent.com/58471319/219059872-16210760-4564-4d40-953a-4d4bace1765b.png)
+![Menu 2](https://user-images.githubusercontent.com/58471319/219060035-d937775f-eda9-4c4d-b543-1d7f9c72bb54.png)
 
 Void Clicker Lite is an autoclicker made in a single batch file. This was supposed to be a updated version to have new clicker profiles but I quickly losed interest and so I decided to release without those profiles enabled.
 
@@ -18,11 +19,11 @@ Type in the name of the profile you would like to load and press enter and it wi
 
 The key-binds are shown on how to use it from there and they can be edited near the top of the file.
 
-insert file picture here
+![Keybind settings in file](https://user-images.githubusercontent.com/58471319/219060071-42352a41-9e18-438e-b522-2666d5045a44.png)
 
 You can numbers on the right side the of the description, those are the arguments provided to that profile. 
 
-insert rect picture here
+![Arguments to profiles](https://user-images.githubusercontent.com/58471319/219060173-330d082a-0b9a-4ac5-a4da-2ff518d01c32.png)
 
 If you would like to use custom CPS values for a profile, you can type in the name of the profile, and then corresponding arguments. For all of the default profiles (excluding `ClickPlayer`), the arguments are first minimum CPS and then maximum CPS. An example could be: 
 ```
