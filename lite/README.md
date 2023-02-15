@@ -1,5 +1,7 @@
 # Void Clicker Lite
 
+!!!   THIS ONLY WORKS ON MINECRAFT JAVA EDITION   !!!
+
 ![Menu](https://user-images.githubusercontent.com/58471319/219059872-16210760-4564-4d40-953a-4d4bace1765b.png)
 ![Menu 2](https://user-images.githubusercontent.com/58471319/219060035-d937775f-eda9-4c4d-b543-1d7f9c72bb54.png)
 
